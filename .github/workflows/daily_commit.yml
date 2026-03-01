@@ -1,5 +1,5 @@
 name: Daily DevSync Update
-
+run-name: Run by 23f2003151@ds.study.iitm.ac.in
 on:
   schedule:
     # Runs at 05:30 UTC every day (Must use specific hours/mins, not *)
